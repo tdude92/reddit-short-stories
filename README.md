@@ -1,5 +1,5 @@
 # reddit-short-stories
-A small dataset of 4,308 short stories (4 million words) scraped from https://reddit.com/r/WritingPrompts for your machine learning needs.
+A small unlabelled dataset of 4,308 short stories (4 million words) scraped from https://reddit.com/r/WritingPrompts for your machine learning needs.
 
 Scraped and formatted by Trevor Du
 
