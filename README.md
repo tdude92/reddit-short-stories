@@ -4,7 +4,7 @@
 Scraped and formatted by Trevor Du (me!)
 
 ## Dataset description
-* Each line of [reddit_short_stories.txt](../https://github.com/tdude92/reddit-short-stories/blob/master/reddit_short_stories.txt) is one full short story.
+* Each line of [reddit_short_stories.txt](https://github.com/tdude92/reddit-short-stories/blob/main/reddit_short_stories.txt) is one full short story.
 * Each short story begins with an "\<sos>" token and ends with an "\<eos>" token (eg. "\<sos> once upon a time, the end \<eos>").
 * Newline characters in a story are replaced with the "\<nl>" token (eg. "\<sos> line 1\ <nl> line 2 \<eos>")
 
