@@ -1,5 +1,5 @@
 # reddit-short-stories
-4308 short stories (4 million words) scraped from https://reddit.com/r/WritingPrompts
+4,308 short stories (4 million words) scraped from https://reddit.com/r/WritingPrompts
 
 Scraped and formatted by Trevor Du (me!)
 
@@ -20,3 +20,5 @@ The scraper saved a comment on a post on r/WritingPrompts if the following condi
 * <20 comments have already been scraped from the comment's parent post.
 
 Note: Only a portion of r/WritingPrompts was scraped, not the entire thing.
+
+Hoping to scrape more of r/WritingPrompts and other subreddits in the future.
