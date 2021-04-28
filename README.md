@@ -6,7 +6,7 @@ Scraped and formatted by Trevor Du
 ## Dataset description
 * Each line of [reddit_short_stories.txt](https://github.com/tdude92/reddit-short-stories/blob/main/reddit_short_stories.txt) is one full short story.
 * Each short story begins with an "\<sos>" token and ends with an "\<eos>" token (eg. "\<sos> once upon a time, the end \<eos>").
-* Newline characters in a story are replaced with the "\<nl>" token (eg. "\<sos> line 1\ <nl> line 2 \<eos>")
+* Newline characters in a story are replaced with the "\<nl>" token (eg. "\<sos> line 1 \<nl> line 2 \<eos>")
 
 ## Data Collection Method
 r/WritingPrompts is a forum on the popular discussion website, https://reddit.com. The tradition is that users start threads that are titled with a *Writing Prompt*. In these threads, other users comment a short story they've written based on the original prompt.
